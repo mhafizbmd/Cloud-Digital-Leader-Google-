@@ -988,3 +988,5 @@ It’s designed to help you **monitor and manage cloud resources on the go**.
 
 **Materials**: [Cloud Digital Leader Learning Path | Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/9)  
 **Mock Exam**: [Cloud Digital Leader Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSedAmf77MGS7FGEaylFzY51KtBd7kkIZJIMDsV5zSRSmpKIOA/viewform)
+
+**LinkedIn Learning**: [https://www.linkedin.com/learning/paths/prepare-for-the-google-cloud-digital-leader-certification]
